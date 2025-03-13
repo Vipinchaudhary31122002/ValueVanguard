@@ -10,7 +10,8 @@
                 "esbenp.prettier-vscode",
                 "ms-toolsai.jupyter",
                 "christian-kohler.path-intellisense",
-                "mechatroner.rainbow-csv"
+                "mechatroner.rainbow-csv",
+                "oderwat.indent-rainbow"
             ]
         }
     }
